@@ -1,0 +1,8 @@
+23/05/2022 09:14:03       Balance Checked
+23/05/2022 09:14:34       Cash Deposited IN JavaBank :-  100000
+23/05/2022 09:14:49       Wrong Pin Entered
+23/05/2022 09:15:01        Recived QuickCash 10000 
+23/05/2022 09:16:30        Atm Pin Changed Successfully 
+23/05/2022 09:17:05       Wrong Pin Entered
+23/05/2022 09:17:10       Wrong Pin Entered
+23/05/2022 09:20:27       Funds Transfered :- 6000
